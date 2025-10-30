@@ -64,6 +64,14 @@
         </plugins>
     </build>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages (ftjace/redblock-mvn)</name>
+            <url>https://maven.pkg.github.com/ftjace/redblock-mvn</url>
+        </repository>
+    </distributionManagement>
+
     <repositories>
         <repository>
             <id>papermc-repo</id>
