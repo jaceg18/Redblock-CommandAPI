@@ -1,0 +1,7 @@
+com\ftjace\commandapi\Annotations\ScheduledForRemoval.class
+com\ftjace\commandapi\Util\Detail.class
+com\ftjace\commandapi\Execution\CNode.class
+com\ftjace\commandapi\Util\CommandArguments.class
+com\ftjace\commandapi\Execution\TabSupplier.class
+com\ftjace\commandapi\Execution\Executor.class
+com\ftjace\commandapi\Execution\BaseCommand.class
