@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Redblock-Core:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Redblock_CommandAPI_jar</output-path>
+    <root id="archive" name="Redblock-Core.jar">
+      <element id="module-output" name="Redblock-CommandAPI" />
+    </root>
+  </artifact>
+</component>
